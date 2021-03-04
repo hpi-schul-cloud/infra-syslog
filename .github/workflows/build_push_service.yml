@@ -1,6 +1,3 @@
- Workflow to build and push the imgages for the schulcloud antivirus service 
-# Tagging of the images push to Docker Hub  will follow the branch based naming conventions
-# use in sc-app-ci to allow deploying the images on team machines  
 
 name: sc-app-build-push
 
